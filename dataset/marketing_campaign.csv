@@ -1,0 +1,21 @@
+Age,Income,MntWines,MntFruits,MntMeatProducts,MntFishProducts,MntSweetProducts,MntGoldProds,NumDealsPurchases,NumWebPurchases,NumCatalogPurchases,NumStorePurchases,NumWebVisitsMonth,Customer_Segment
+58,58138,635,88,546,172,88,172,8,4,10,7,3,High Value
+38,46344,11,1,6,2,1,1,1,2,2,3,3,Low Value
+49,71613,426,49,127,111,21,42,5,3,6,5,2,High Value
+70,26646,11,4,20,10,3,5,2,1,4,2,6,Low Value
+30,58293,173,43,118,36,15,27,5,2,5,6,1,Medium Value
+45,62513,520,42,98,80,25,60,6,4,8,7,2,High Value
+52,33454,36,8,20,15,6,10,2,2,3,3,5,Low Value
+41,52247,300,28,60,40,14,35,4,3,7,6,3,Medium Value
+35,68118,455,35,115,72,18,44,6,3,8,7,2,High Value
+63,44052,65,12,30,22,7,18,2,2,4,4,5,Low Value
+29,78901,610,52,145,105,30,65,7,5,10,8,1,High Value
+55,38964,80,15,34,18,8,12,3,2,4,3,6,Low Value
+47,55231,250,24,72,51,13,31,4,3,6,5,3,Medium Value
+33,60432,390,31,91,68,20,38,5,3,8,6,2,High Value
+60,47000,55,10,28,20,6,15,2,1,3,3,5,Low Value
+39,63500,330,27,84,59,16,37,5,3,7,6,2,Medium Value
+44,71000,480,40,130,90,24,55,6,4,9,7,1,High Value
+68,31000,25,5,18,8,3,7,1,1,2,2,7,Low Value
+31,49500,145,19,49,32,10,22,3,2,5,4,4,Medium Value
+50,59000,360,30,105,70,17,42,5,3,7,6,2,High Value
